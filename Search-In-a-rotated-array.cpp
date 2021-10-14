@@ -1,3 +1,11 @@
+// Time Complexity : O(logn)
+// Space Complexity :O(1)
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this : NO
+
+
+// Your code here along with comments explaining your approach
+
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
